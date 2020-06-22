@@ -1,0 +1,5 @@
+|Recommendation|Description & related policy|Severity|Quick fix enabled?([Learn more](https://docs.microsoft.com/azure/security-center/security-center-remediate-recommendations#recommendations-with-quick-fix-remediation))|Resource type|
+|----|----|----|----|----|
+|**Storage accounts should be migrated to new Azure Resource Manager resources**|Use new Azure Resource Manager for your storage accounts to provide security enhancements such as: stronger access control (RBAC), better auditing, Resource Manager-based deployment and governance, access to managed identities, access to key vault for secrets, and Azure AD-based authentication and support for tags and resource groups for easier security management.<br>(Related policy: Storage accounts should be migrated to new Azure Resource Manager resources)|Low|N|Storage account|
+
+
